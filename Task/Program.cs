@@ -8,3 +8,31 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
+string[] FilterArrayWithThreeChars(string[] arr)
+{
+    int count = 0;
+    foreach (string element in arr)
+    {
+        if(element.Length <= 3)
+        {
+            count++;
+        }
+    }
+    
+    string[] resultArr = new string[count];
+    int index = 0;
+    foreach (string element in arr)
+    {
+        if(element.Length <= 3)
+        {
+            resultArr[index] = element;
+            index++;
+        }
+    }
+    return resultArr;
+}
+
+
+string[] array = { "cat", "apple", "frog", "Hello", "2", "world", ":-)", "1234", "-2", "computer science", "Kazan", "Oulu", "my", "rin"};
+string[] newArray = FilterArrayWithThreeChars(array);
+Console.Write(string.Join(", ", newArray));

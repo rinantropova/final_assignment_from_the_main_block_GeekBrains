@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\Task\\Task.csproj": {}
+    "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\final_assignment_from_the_main_block_GeekBrains\\Task\\Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\Task\\Task.csproj": {
+    "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\final_assignment_from_the_main_block_GeekBrains\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\Task\\Task.csproj",
+        "projectUniqueName": "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\final_assignment_from_the_main_block_GeekBrains\\Task\\Task.csproj",
         "projectName": "Task",
-        "projectPath": "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\Task\\Task.csproj",
+        "projectPath": "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\final_assignment_from_the_main_block_GeekBrains\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\sladkij\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\Task\\obj\\",
+        "outputPath": "C:\\Users\\sladkij\\Desktop\\GeekBrains\\Intro C#\\Final_assignment_from_the_main_bloc_GB\\final_assignment_from_the_main_block_GeekBrains\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sladkij\\AppData\\Roaming\\NuGet\\NuGet.Config"
