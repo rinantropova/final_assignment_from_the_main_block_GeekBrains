@@ -1,8 +1,5 @@
 # Final_assignment_from_the_main_block_GeekBrains
 
-
-
-
 *English*
 
 ## Step 1. 
@@ -42,7 +39,6 @@ In the Main:
 string[] newArray = FilterArrayWithThreeChars(array);
 ```
 3. And printing out the result, using `Console.WriteLine` and method `string.Join`.
-
 
 
 
